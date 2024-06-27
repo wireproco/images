@@ -1,11 +1,11 @@
 {
   "components": [
     {
-        "name": "Standard Button",
+        "name": "Butonsito",
         "category": "buttons",
         "tags": ["buttons", "actions", "navigation", "form"],
         "description": "It is perfect for the most important actions in your design. Easy to use and customize.",
-        "plan": "free",
+        "plan": "premium",
         "fileKey": "RBIIGZjT5jkgvA5SyEtU8w",
         "lightComponentSetKey": "8dcaad3484fc5ebf0f61d0a259bbfbc6aa7ce605",
         "darkComponentSetKey": "d34777a3075785e64186124cc357d2121acf405f",
